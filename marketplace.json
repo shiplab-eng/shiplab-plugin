@@ -1,0 +1,12 @@
+{
+  "name": "Shiplab Plugin Marketplace",
+  "description": "Official Shiplab plugin for Claude",
+  "plugins": [
+    {
+      "name": "shiplab",
+      "description": "Access and analyze your Shiplab shipping invoices and charges directly from Claude.",
+      "repository": "https://github.com/shiplab-eng/shiplab-plugin",
+      "ref": "main"
+    }
+  ]
+}
