@@ -3,8 +3,13 @@
     "shiplab": {
       "type": "http",
       "url": "https://mcp.shiplab.com/mcp",
-      "headers": {
-        "Authorization": "Bearer ${SHIPLAB_API_KEY}"
+      "oauth": {
+        "clientId": "adel@shiplab.com",
+        "authorizationUrl": "https://mcp.shiplab.com/authorize",
+        "tokenUrl": "https://mcp.shiplab.com/token",
+        "scopes": [
+          "read"
+        ]
       }
     }
   }
