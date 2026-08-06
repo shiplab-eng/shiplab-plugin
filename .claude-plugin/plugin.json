@@ -1,0 +1,11 @@
+{
+  "name": "shiplab",
+  "description": "Access and analyze your Shiplab shipping invoices and charges directly from Claude.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shiplab",
+    "url": "https://shiplab.com"
+  },
+  "homepage": "https://github.com/your-org/shiplab-plugin",
+  "repository": "https://github.com/your-org/shiplab-plugin"
+}
