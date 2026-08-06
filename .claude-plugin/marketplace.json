@@ -1,12 +1,18 @@
 {
-  "name": "Shiplab Plugin Marketplace",
-  "description": "Official Shiplab plugin for Claude",
+  "name": "shiplab",
+  "owner": {
+    "name": "Shiplab"
+  },
   "plugins": [
     {
       "name": "shiplab",
       "description": "Access and analyze your Shiplab shipping invoices and charges directly from Claude.",
-      "repository": "https://github.com/shiplab-eng/shiplab-plugin",
-      "ref": "main"
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shiplab-eng/shiplab-plugin.git",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/shiplab-eng/shiplab-plugin"
     }
   ]
 }
