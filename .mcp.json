@@ -2,15 +2,7 @@
   "mcpServers": {
     "shiplab": {
       "type": "http",
-      "url": "https://mcp.shiplab.com/mcp",
-      "oauth": {
-        "clientId": "adel@shiplab.com",
-        "authorizationUrl": "https://mcp.shiplab.com/authorize",
-        "tokenUrl": "https://mcp.shiplab.com/token",
-        "scopes": [
-          "read"
-        ]
-      }
+      "url": "https://mcp.shiplab.com/mcp"
     }
   }
 }
