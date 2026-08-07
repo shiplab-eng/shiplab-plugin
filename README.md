@@ -39,10 +39,10 @@ Just ask Claude naturally:
 ## Example prompts
 
 ```
-دانلود فاکتورهای ماه گذشته
-هزینه ارسال UPS در سه ماه اول سال چقدر بوده؟
-مقایسه هزینه FedEx و DHL در سال جاری
-لیست کانکشن‌های فعال من
+Download last month's invoices
+How much did UPS shipping cost in the first quarter of the year?
+Compare FedEx and DHL costs for the current year
+List my active connections
 ```
 
 ## Available data
